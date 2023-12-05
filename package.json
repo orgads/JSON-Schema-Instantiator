@@ -1,5 +1,5 @@
 {
-  "name": "json-schema-instantiator",
+  "name": "@audc/json-schema-instantiator",
   "version": "1.0.0",
   "description": "A simple instantiator for json schemas.",
   "main": "dist/cjs/instantiator.js",
